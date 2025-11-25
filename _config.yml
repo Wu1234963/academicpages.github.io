@@ -23,7 +23,8 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "1759726650_1livow0L.png"
+  avatar           : "https://github.com/Wu1234963/academicpages.github.io/blob/master/images/1759726650_1livow0L.png
+"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : "我是一名来自江西理工大学的学生，我的专业是信息安全。这个账号会用来见证我的成长。"
